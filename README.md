@@ -1,4 +1,4 @@
-# Personal Portfolio Views Analysis
+# 🔍 Personal Portfolio Views Analysis
 
 Is it really worth having a GitHub portfolio? Opinions are split, and that's where the Portfolio Views Analysis project comes in. This project isn't just about crunching numbers; it's about understanding the true value of ones portfolio.
 
